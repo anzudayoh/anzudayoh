@@ -1,1 +1,436 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>welcum bru</title>
+  <link rel="stylesheet" href="/style/bowl.css">
+  <link rel="stylesheet" href="/style/rice.css">
+  <link rel="stylesheet" href="/style/thitbo.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <link rel="icon" href="/img%2Fgraphics/snailcat.png" type="image/x-icon">
+
+  <script src="/js/follow.js"></script>
+</head>
+
+<body>
+
+  <div class="wrapper">
+
+    <!--snailcat-->
+    <img class="squish" src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snailcat.png" style="position: absolute; width: 150px; right: -5px; top: 90px; z-index: 1000" onclick="squishImage(this)" title="click me vro">
+
+    <audio id="clickSound" src="https://file.garden/Z2qKUX9U8UFvf65x/sfx/meow.mp3"></audio>
+    <script>
+      var originalSrc = document.getElementById("squishImage").src;
+
+      function squishImage(image) {
+        var sound = document.getElementById("clickSound");
+        sound.currentTime = 0;
+        sound.play();
+        image.classList.add("clicked");
+        setTimeout(function() {
+          image.classList.remove("clicked");
+        }, 300);
+      }
+    </script>
+
+    <a href=""><span class="hl">
+        <h2>hieu.cốm</h2>
+      </span>
+    </a>
+    <h2>at dot nekoweb dot org</h2>
+
+    <div style="font-size: 28px; line-height: 20px; margin-top: 10px">
+      <a href=""><span class="hl">home</span></a> /
+      <a href="/sitemap.html"><span class="hl">sitemap</span></a> /
+      <a href="/rss/feed.html"><span class="hl">rss-feed</span></a> /
+      <a href="/works.html"><span class="hl">artwork</span></a> /
+      <br>
+      <a href="/resources.html"><span class="hl">resources</span></a> /
+      <a href="/ricepaddy/ricebowl.html"><span class="hl">ricebowl</span></a> /
+      <a href="https://x.com/gu1ltyc"><span class="hl">twitter</span></a> /
+      <a href="https://www.tumblr.com/blog/gu1ltyc"><span class="hl">tumblr</span></a> /
+      <a href="https://guiltyc.straw.page"><span class="hl">strawpage</span></a> /
+      <a href="https://hieucom.atabook.org/"><span class="hl">guestbook</span></a>
+    </div>
+
+    <div class="flex">
+
+      <!--navi info-->
+      <col-1>
+
+        <div class="con-m">
+
+          <h3 style="font-size: 30px">if you so desire..</h3>
+          <img src="https://eggwichwithbacons.nekoweb.org/img%2Fbuttons/4.gif" width="88">
+          <br>
+          <textarea><a href="https://hieucom.nekoweb.org"><img src="https://eggwichwithba
+      cons.nekoweb.org/img%2Fbuttons/4.gif" width="88" height="31"></a></textarea>
+          <br>
+
+          would i care if u hotlink? probably not.
+        </div>
+
+      </col-1>
+
+      <!--content-->
+      <col-1 style="flex: 2">
+        <div class="con-m">
+          welcome to
+          <h2>v4 (〡_〡)</h2>
+          <ind></ind>
+          hey webventurer, welcome to my site. this place is just somewhere to archive all <ind></ind>my fun coding and hobbies.
+          <ind></ind>
+          ive been pretty busy these days with school<ind></ind> and what not, but ill always make room for coding my site.. why hieucom .?<ind></ind> well 4 <ind></ind>starters if i ever have a custom domain ill make it hieu.com and com means<ind></ind> rice in viet. also hieu is my name
+          <ind></ind>this site is meant for desktop.
+          <br></br>
+          <ind></ind>consider your choices on mobile and suffer.
+        </div>
+
+      </col-1>
+    </div>
+
+  </div>
+  </div>
+  </div>
+
+  </div>
+
+<div style="background: url(https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snow.png); height: 50px; width: 100%; background-size: 30%; position: fixed; bottom: 0; z-index: 1000">
+  </div>
+
+</body>
+
+</html>
+
+<!--snowflake-->
+<div class="snowflakes" aria-hidden="true" style="z-index: -123424235;">
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+  <div class="snowflake"> <img src="https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/snowflake.png"> </div>
+</div>
+<style>
+  .snowflake {
+    color: #fff;
+    font-size: 1em;
+    font-family: Arial;
+    text-shadow: 0 0 1px #000;
+    z-index: -1954834956 !important;
+  }
+
+  @-webkit-keyframes snowflakes-fall {
+    0% {
+      top: -10%
+    }
+
+    100% {
+      top: 100%
+    }
+  }
+
+  @-webkit-keyframes snowflakes-shake {
+    0% {
+      -webkit-transform: translateX(0px);
+      transform: translateX(0px)
+    }
+
+    50% {
+      -webkit-transform: translateX(80px);
+      transform: translateX(80px)
+    }
+
+    100% {
+      -webkit-transform: translateX(0px);
+      transform: translateX(0px)
+    }
+  }
+
+  @keyframes snowflakes-fall {
+    0% {
+      top: -50%
+    }
+
+    100% {
+      top: 100%
+    }
+  }
+
+  @keyframes snowflakes-shake {
+    0% {
+      transform: translateX(0px)
+    }
+
+    50% {
+      transform: translateX(50px)
+    }
+
+    100% {
+      transform: translateX(0px)
+    }
+  }
+
+  .snowflake {
+    position: fixed;
+    top: -10%;
+    z-index: 9999;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    -webkit-animation-name: snowflakes-fall, snowflakes-shake;
+    -webkit-animation-duration: 10s, 3s;
+    -webkit-animation-timing-function: linear, ease-in-out;
+    -webkit-animation-iteration-count: infinite, infinite;
+    -webkit-animation-play-state: running, running;
+    animation-name: snowflakes-fall, snowflakes-shake;
+    animation-duration: 10s, 3s;
+    animation-timing-function: linear, ease-in-out;
+    animation-iteration-count: infinite, infinite;
+    animation-play-state: running, running
+  }
+
+  .snowflake:nth-of-type(0) {
+    left: 1%;
+    -webkit-animation-delay: 0s, 0s;
+    animation-delay: 0s, 0s
+  }
+
+  .snowflake:nth-of-type(1) {
+    left: 10%;
+    -webkit-animation-delay: 1s, 1s;
+    animation-delay: 1s, 1s
+  }
+
+  .snowflake:nth-of-type(2) {
+    left: 20%;
+    -webkit-animation-delay: 5s, .5s;
+    animation-delay: 5s, .5s
+  }
+
+  .snowflake:nth-of-type(3) {
+    left: 30%;
+    -webkit-animation-delay: 4s, 2s;
+    animation-delay: 3s, 1s
+  }
+
+  .snowflake:nth-of-type(4) {
+    left: 40%;
+    -webkit-animation-delay: 2s, 2s;
+    animation-delay: 2s, 2s
+  }
+
+  .snowflake:nth-of-type(5) {
+    left: 50%;
+    -webkit-animation-delay: 8s, 3s;
+    animation-delay: 7s, 2s
+  }
+
+  .snowflake:nth-of-type(6) {
+    left: 60%;
+    -webkit-animation-delay: 4s, 1s;
+    animation-delay: 5s, 2s
+  }
+
+  .snowflake:nth-of-type(7) {
+    left: 70%;
+    -webkit-animation-delay: 2.5s, 1s;
+    animation-delay: 2s, 1s
+  }
+
+  .snowflake:nth-of-type(8) {
+    left: 80%;
+    -webkit-animation-delay: 1s, 0s;
+    animation-delay: 1s, 0s
+  }
+
+  .snowflake:nth-of-type(9) {
+    left: 90%;
+    -webkit-animation-delay: 3s, 1.5s;
+    animation-delay: 1s, 2s
+  }
+
+  .snowflake img {
+    width: 5px;
+    image-rendering: pixelated;
+  }
+</style>
+
+<!--snowflake-->
+
+<style>
+
+@font-face {
+  font-family: "comicoro";
+  src: url("https://file.garden/Z2qKUX9U8UFvf65x/fonts%20bruh/comicoro.ttf");
+}
+
+* {
+  cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat909.cur), auto !important;
+}
+
+:root {
+  --black: #151515;
+  --white: #d4d4d3;
+  --gray: #707e8e;
+  --dgray: #14181f;
+}
+
+body {
+  font-family: "comicoro";
+  font-size: 28px;
+  background: var(--black);
+  color: var(--white);
+  font-weight: 200;
+  transition: background-color 0.3s, color 0.3s;
+
+  &::after {
+    content: "";
+    background-image: url("https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/noise.png");
+    opacity: 5%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    image-rendering: auto;
+    pointer-events: none;
+    z-index: -1;
+  }
+}
+
+textarea {
+  background: transparent;
+  color: var(--white);
+}
+
+a {
+  color: var(--white);
+}
+
+hr {
+  border: dashed 1px #171715;
+}
+
+ind {
+  margin-left: 50px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: "arial";
+  font-weight: 200;
+  line-height: 45px;
+}
+
+.switch {
+  position: absolute;
+}
+
+.con-m {
+  margin: 10px;
+}
+
+.squish {
+  transition: transform 0.3s ease;
+}
+
+.squish.clicked {
+  animation: bounce 0.3s ease;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  25% {
+    transform: translateY(-10px) scale(1.1, 0.9);
+  }
+  50% {
+    transform: translateY(-20px) scale(0.9, 1.1);
+  }
+  75% {
+    transform: translateY(-10px) scale(1.05, 0.95);
+  }
+}
+
+.wrapper {
+  position: relative;
+  width: 900px;
+  margin: auto;
+  top: 100px;
+}
+
+.flex {
+  display: flex;
+  gap: 15px;
+}
+
+col-1 {
+  flex: 1;
+  z-index: -1;
+}
+
+.favi {
+  width: 50px;
+  height: 50px;
+  padding-top: 5px;
+  float: left;
+  margin-right: 10px;
+}
+
+.favi img {
+  width: 90%;
+}
+
+.hl {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease-in-out;
+}
+
+.hl::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--white);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease-in-out;
+  z-index: -1;
+}
+
+a:hover .hl {
+  color: var(--black);
+}
+
+a:hover .hl::before {
+  transform: scaleX(1);
+}
+
+.tl {
+  color: var(--gray);
+}
+
+i {
+  font-size: 20px;
+}
+
+</style>
