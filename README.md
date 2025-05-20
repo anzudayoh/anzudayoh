@@ -1,4 +1,4 @@
-# rice / alex
+# leathe.dev
 
 hi, i'm rice (or alex).  
 i like to draw, play games, and code in my free time.
