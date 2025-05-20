@@ -5,7 +5,7 @@ I like to **draw**, **play games**, and **code** in my free time.
 
 ---
 
-## 🔧 Tech I Enjoy
+## 🔧 Languages I Enjoy
 - Frontend: `HTML` • `CSS` • `JavaScript`
 - Backend: `Python` • `Lua` (mostly for Roblox)
 
