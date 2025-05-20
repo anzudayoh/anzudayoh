@@ -1,3 +1,19 @@
-![Banner](https://file.garden/Z2qKUX9U8UFvf65x/cardboarda.png)
-## 🍚 hi, im rice/alex
-i like to draw and play games, but i also like to code in my free time
+#  rice / alex
+
+Hi, I'm **rice** (aka **alex**) —  
+I like to **draw**, **play games**, and **code** in my free time.
+
+---
+
+## 🔧 Tech I Enjoy
+- Frontend: `HTML` • `CSS` • `JavaScript`
+- Backend: `Python` • `Lua` (mostly for Roblox)
+
+## 🎮 Interests
+- whatever i like
+- roblox
+- drawing
+
+## ✏️ Projects
+
+---
