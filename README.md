@@ -5,10 +5,10 @@ i like to draw, play games, and code in my free time.
 
 ### things i use:
 - html / css / js  
-- lua (mostly for roblox)
+- lua (for roblox)
 
 ### what i'm into:
 - making random site layouts
 - drawing
 
-feel free to look around :)
+feel free to look around : )
