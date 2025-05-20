@@ -11,4 +11,8 @@ i like to draw, play games, and code in my free time.
 - making random site layouts
 - drawing
 
+### stuff im trying to learn:
+- `C++`, `C`
+- `Javascript`
+
 feel free to look around : )
